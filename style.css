@@ -1,0 +1,13 @@
+.card {
+    height: 12em;
+    width: 10em;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+#charContainer {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
